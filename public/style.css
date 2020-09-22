@@ -1,0 +1,21 @@
+.con{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.footer{
+    width: 100%;
+    background-color: #6c757d;
+    font-size: x-large;
+    text-align: center;
+    
+}
+
+.bg{
+    width: 100%;
+    background-color: #e3dfd3;
+    font-size: x-large;
+    text-align: center;
+}
